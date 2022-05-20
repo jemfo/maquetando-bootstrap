@@ -5,7 +5,8 @@
  .nav-link{
    font-size: 1.8rem;
  }
- main h1{
+
+ main h1 {
    text-align: center;
    padding: 1.5rem;
  }
@@ -16,5 +17,10 @@
  }
 
  .paseo{
-   width: 60vw;
+   width: 40vw;
+ } 
+
+ h2{
+   display: inline;
+   margin-bottom: 25px;
  }
