@@ -5,3 +5,16 @@
  .nav-link{
    font-size: 1.8rem;
  }
+ main h1{
+   text-align: center;
+   padding: 1.5rem;
+ }
+
+ main p{
+   font-size: 1.2rem;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .paseo{
+   width: 60vw;
+ }
